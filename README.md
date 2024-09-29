@@ -20,19 +20,17 @@ SenseAssist é uma aplicação em Python que tem como objetivo ser uma ferrament
 
 Ao iniciar o programa pela primeira vez, você será orientado a fornecer uma **palavra de ativação**.
 ![computador](https://github.com/user-attachments/assets/1e42de8a-641f-4ea6-887d-9dbe182c6b95)
-
-![palavra de ativação](image/palavra_ativacao.png)
 Esta palavra permite que o programa entenda quando você está solicitando alguma informação, já que ele permanece ouvindo o tempo todo. 
-![gravação da palavra](image/computador.png)
+
 Por exemplo, se a palavra de ativação escolhida for **"Computador"**, você pode dizer:
 
 > "Computador, qual o clima atual em São Gonçalo agora?"
 
 Ao detectar a palavra de ativação, o programa repetirá sua solicitação, escrevendo na tela e pronunciando em áudio, informando que está realizando a pesquisa solicitada. 
-![imagem da tela após executar o comando](image/comando.png)
+![comando](https://github.com/user-attachments/assets/960c8e1d-b13d-402d-92c9-015c4c12a34f)
 
 Após obter o resultado, ele o fornecerá escrito na tela e também o pronunciará em áudio. 
-![Resultado obtido](image/resposta.png)
+![resposta](https://github.com/user-attachments/assets/77df0261-c14a-4c47-8153-711aae876560)
 
 Portanto, é essencial que você tenha um microfone ativo e alto-falantes para obter os melhores resultados antes de iniciar o programa.
 
