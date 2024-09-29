@@ -114,7 +114,7 @@ Certifique-se de ativar as seguintes funcionalidades no Composio:
 Após a instalação e configuração, você pode iniciar o programa executando:
 
 ```bash
-python main.py
+python app.py
 ```
 O programa foi testado unicamente no Windows 10 e 11, utilizando Python 3.11.5
 É necessário estar conectado a internet.
