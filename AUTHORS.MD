@@ -6,7 +6,7 @@
 - **Wagner Bittencourt** - [@cwgbittencourt](https://github.com/cwgbittencourt)
   - Desenvolvedor.
 
-- **Dyego Barros** - [@](https://github.com/)
+- **Dyego Barros** - [@Dyego-Barros](https://github.com/Dyego-Barros)
   - Desenvolvedor.
 
 ---
