@@ -147,7 +147,12 @@ Este projeto está licenciado sob a licença MIT - veja o arquivo [LICENSE](LICE
 ## Agradecimentos
 
 Agradecemos a todos que contribuíram para este projeto e às comunidades de código aberto que possibilitam o desenvolvimento colaborativo. 
-Agradecimentos especiais a #Langflow e #Composio, seria impossível a construção sem estas ferramentas.
+
+Agradecimentos especiais:
+
+Este projeto foi inspirado e constrói sobre os conceitos do [Langflow](https://github.com/langflow-ai/langflow), uma ferramenta incrível para fluxos de processamento de linguagem natural. 
+
+Também utilizamos funcionalidades do [Composio](https://app.composio.dev/) para orquestrar nossos pipelines de IA.
 
 ---
 
