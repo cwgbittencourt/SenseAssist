@@ -18,7 +18,9 @@ Uma ferramenta inovadora para auxiliar pesquisa utilizando voz e inteligência a
 
 SenseAssist é uma aplicação em Python que tem como objetivo ser uma ferramenta de inclusão para pessoas com algum tipo de deficiência que as impede de realizar pesquisas utilizando Inteligência Artificial. O software é especialmente útil para aqueles que têm dificuldade em ler na tela do computador ou utilizar o mouse e o teclado.
 
-Ao iniciar o programa pela primeira vez, você será orientado a fornecer uma **palavra de ativação**. 
+Ao iniciar o programa pela primeira vez, você será orientado a fornecer uma **palavra de ativação**.
+![computador](https://github.com/user-attachments/assets/1e42de8a-641f-4ea6-887d-9dbe182c6b95)
+
 ![palavra de ativação](image/palavra_ativacao.png)
 Esta palavra permite que o programa entenda quando você está solicitando alguma informação, já que ele permanece ouvindo o tempo todo. 
 ![gravação da palavra](image/computador.png)
