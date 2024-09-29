@@ -38,6 +38,8 @@ Após obter o resultado, ele o fornecerá escrito na tela e também o pronunciar
 
 Portanto, é essencial que você tenha um microfone ativo e alto-falantes para obter os melhores resultados antes de iniciar o programa.
 
+Você poderá ver o programa funcionando aqui: [SenseAssist_video](https://youtu.be/Fjp0J7TESEo)
+
 Os comandos são executados por voz, a informação é processada por agentes de Inteligência Artificial, que retornam exibindo o resultado na tela e realizando a leitura de forma vocal.
 
 ## Instalação
