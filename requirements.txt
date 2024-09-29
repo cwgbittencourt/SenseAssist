@@ -1,0 +1,6 @@
+langflow==1.0.18
+SpeechRecognition
+pyttsx3
+PyAudio
+PyQt5
+PyQtWebEngine
