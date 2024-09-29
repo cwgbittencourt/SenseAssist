@@ -2,7 +2,7 @@
 """
 SenseAssist - Assistente de Voz
 
-Copyright (c) 2023 Carlos Gabriel Souza Bittencourt, Carlos Wagner Gonçalves Bittencourt, Dyego Barros
+Copyright (c) 2024 Carlos Gabriel Souza Bittencourt, Carlos Wagner Gonçalves Bittencourt, Dyego Barros
 Licenciado sob a Licença MIT. Veja o arquivo LICENSE para mais informações.
 """
 
