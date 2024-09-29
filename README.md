@@ -1,7 +1,8 @@
-```markdown
 # SenseAssist
 
-Uma ferramenta inovadora para auxiliar pesquisa utilizando voz e inteligência artificial.
+![logo_SA](https://github.com/user-attachments/assets/f5d3d141-fc6b-443a-8272-772e01e138fa)
+
+Uma ferramenta para utilização de pesquisas com comandos de voz. O resultado também é fornecido em áudio e texto.
 
 ## Índice
 
@@ -19,6 +20,7 @@ Uma ferramenta inovadora para auxiliar pesquisa utilizando voz e inteligência a
 SenseAssist é uma aplicação em Python que tem como objetivo ser uma ferramenta de inclusão para pessoas com algum tipo de deficiência que as impede de realizar pesquisas utilizando Inteligência Artificial. O software é especialmente útil para aqueles que têm dificuldade em ler na tela do computador ou utilizar o mouse e o teclado.
 
 Ao iniciar o programa pela primeira vez, você será orientado a fornecer uma **palavra de ativação**.
+
 ![computador](https://github.com/user-attachments/assets/1e42de8a-641f-4ea6-887d-9dbe182c6b95)
 Esta palavra permite que o programa entenda quando você está solicitando alguma informação, já que ele permanece ouvindo o tempo todo. 
 
@@ -27,9 +29,11 @@ Por exemplo, se a palavra de ativação escolhida for **"Computador"**, você po
 > "Computador, qual o clima atual em São Gonçalo agora?"
 
 Ao detectar a palavra de ativação, o programa repetirá sua solicitação, escrevendo na tela e pronunciando em áudio, informando que está realizando a pesquisa solicitada. 
+
 ![comando](https://github.com/user-attachments/assets/960c8e1d-b13d-402d-92c9-015c4c12a34f)
 
 Após obter o resultado, ele o fornecerá escrito na tela e também o pronunciará em áudio. 
+
 ![resposta](https://github.com/user-attachments/assets/77df0261-c14a-4c47-8153-711aae876560)
 
 Portanto, é essencial que você tenha um microfone ativo e alto-falantes para obter os melhores resultados antes de iniciar o programa.
@@ -148,4 +152,3 @@ Agradecimentos especiais a #Langflow e #Composio, seria impossível a construç�
 ---
 
 
-```
